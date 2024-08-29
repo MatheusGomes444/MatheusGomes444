@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus Gomes! 👋
+<h1 align = "center"># Olá, eu sou o Matheus Gomes! 👋  </h1>
 
 - 👀 **Interesses:** Sou programador na área de desenvolvimento de sistemas, apaixonado por criar soluções eficazes e inovadoras.
 - 🌱 **Atualmente estou aprendendo:** Java, Angular e C#.
