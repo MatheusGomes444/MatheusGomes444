@@ -6,8 +6,6 @@
 - 🌱 **Atualmente estou aprendendo:** Java, Angular e C#.
 - 💞️ **Estou procurando colaborar em:** Projetos de desenvolvimento de sites ou aplicativos. Se você estiver trabalhando em algo nessa área e precisar de colaboração, adoraria ajudar!
 - 📫 **Como me encontrar:** Você pode me contatar por e-mail em [matheus.gomes.silva2023@gmail.com](mailto:matheus.gomes.silva2023@gmail.com).
-- 😄 **Pronomes:** Ele/dele
-- ⚡ **Curiosidade divertida:** Gosto de ler no meu tempo livre. Sempre estou em busca de novos livros e autores para explorar!
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusGomes444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
