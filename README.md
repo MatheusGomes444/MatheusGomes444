@@ -1,6 +1,6 @@
 <h1 align = "center"> Olá, eu sou o Matheus Gomes! 👋  </h1>
 <br>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 - 👀 **Interesses:** Sou programador na área de desenvolvimento de sistemas, apaixonado por criar soluções eficazes e inovadoras.
 - 🌱 **Atualmente estou aprendendo:** Java, Angular e C#.
 - 💞️ **Estou procurando colaborar em:** Projetos de desenvolvimento de sites ou aplicativos. Se você estiver trabalhando em algo nessa área e precisar de colaboração, adoraria ajudar!
