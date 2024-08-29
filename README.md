@@ -11,7 +11,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gio-aguiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+## 📫 Contato
 
+[![Linkedin: Matheus](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in/matheus-gomes-da-silva-65080a2a0/)])
 <!---
 MatheusGomes444/MatheusGomes444 é um repositório ✨ especial ✨ porque o arquivo `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link de visualização para ver as suas mudanças.
