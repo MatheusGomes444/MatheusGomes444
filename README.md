@@ -1,4 +1,5 @@
 <h1 align = "center"> Olá, eu sou o Matheus Gomes! 👋  </h1>
+<br>
 
 - 👀 **Interesses:** Sou programador na área de desenvolvimento de sistemas, apaixonado por criar soluções eficazes e inovadoras.
 - 🌱 **Atualmente estou aprendendo:** Java, Angular e C#.
@@ -10,7 +11,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusGomes444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-##
+
+#
+
 <br><br>
 
 ## 🚀 Hard-Skills
