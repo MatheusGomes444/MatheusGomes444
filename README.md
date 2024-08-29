@@ -8,6 +8,10 @@
 - ⚡ **Curiosidade divertida:** Gosto de ler no meu tempo livre. Sempre estou em busca de novos livros e autores para explorar!
 ## 🚀 Hard-Skills
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,mysql,cs,angular)](https://skillicons.dev)<br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gio-aguiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 <!---
 MatheusGomes444/MatheusGomes444 é um repositório ✨ especial ✨ porque o arquivo `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link de visualização para ver as suas mudanças.
