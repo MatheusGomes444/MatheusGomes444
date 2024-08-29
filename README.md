@@ -6,7 +6,7 @@
 - 📫 **Como me encontrar:** Você pode me contatar por e-mail em [matheus.gomes.silva2023@gmail.com](mailto:matheus.gomes.silva2023@gmail.com).
 - 😄 **Pronomes:** Ele/dele
 - ⚡ **Curiosidade divertida:** Gosto de ler no meu tempo livre. Sempre estou em busca de novos livros e autores para explorar!
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)]
+
 <!---
 MatheusGomes444/MatheusGomes444 é um repositório ✨ especial ✨ porque o arquivo `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link de visualização para ver as suas mudanças.
