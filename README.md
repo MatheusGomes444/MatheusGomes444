@@ -7,7 +7,7 @@
 - 😄 **Pronomes:** Ele/dele
 - ⚡ **Curiosidade divertida:** Gosto de ler no meu tempo livre. Sempre estou em busca de novos livros e autores para explorar!
 ## 🚀 Hard-Skills
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,mysql,cypress)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,mysql,c#)](https://skillicons.dev)<br><br>
 <!---
 MatheusGomes444/MatheusGomes444 é um repositório ✨ especial ✨ porque o arquivo `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link de visualização para ver as suas mudanças.
