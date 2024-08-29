@@ -9,7 +9,7 @@
 ## 🚀 Hard-Skills
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,mysql,cs,angular)](https://skillicons.dev)<br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gio-aguiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusGomes444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 ## 📫 Contato
 
