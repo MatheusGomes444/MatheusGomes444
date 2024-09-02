@@ -16,8 +16,10 @@
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,mysql,cs,angular)](https://skillicons.dev)<br><br>
 ## 📫 Contato
 
+
 <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheus.gomes.silva2023@gmail.com" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheus.gomes.silva2023@gmail.com" alt="Gmail"
+   align="right" /></a>
   
 [![Linkedin: Matheus](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-gomes-da-silva-65080a2a0/)](https://www.linkedin.com/in/matheus-gomes-da-silva-65080a2a0/)
 
