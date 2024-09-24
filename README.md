@@ -18,6 +18,7 @@
 
   
 [![Linkedin: Matheus](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-gomes-da-silva-65080a2a0/)](https://www.linkedin.com/in/matheus-gomes-da-silva-65080a2a0/)
+[![Gmail: Matheus](https://img.shields.io/badge/Gmail-matheus.gomes.silva2023@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 <!---
 MatheusGomes444/MatheusGomes444 é um repositório ✨ especial ✨ porque o arquivo `README.md` (este arquivo) aparece no seu perfil do GitHub.
