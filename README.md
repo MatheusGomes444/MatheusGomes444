@@ -17,19 +17,6 @@
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,mysql,cs,angular)](https://skillicons.dev)<br><br>
 ## 📫 Contato
 
-<br><br>
-## 💩 Minhas cagadas
-## Cocô verde
-## Cocô mole
-## Cocô com milho
-## Cocô amarelo 
-## Cocô vermelho/roxo 
-## Cocô em bolinha 
-## Cocô comprido 
-## Cocô despedaçado 
-## Cocô com sangue 
-<br><br>
-  
 [![Linkedin: Matheus](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-gomes-da-silva-65080a2a0/)](https://www.linkedin.com/in/matheus-gomes-da-silva-65080a2a0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=black)](https://www.instagram.com/mateuzz23/)
 
