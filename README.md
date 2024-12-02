@@ -1,4 +1,4 @@
-<h1 align = "center"> Olá, eu sou o Matheus Rolones! 👋  </h1>
+<h1 align = "center"> Olá, eu sou o Matheus Gomes! 👋  </h1>
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
