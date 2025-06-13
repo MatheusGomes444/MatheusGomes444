@@ -13,7 +13,7 @@
 
 <br><br>
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,mysql,cs,angular)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,ts,mysql,cs,angular,php)](https://skillicons.dev)<br><br>
 ## 📫 Contato
 
 [![Linkedin: Matheus](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-gomes-da-silva-65080a2a0/)](https://www.linkedin.com/in/matheus-gomes-da-silva-65080a2a0/)
